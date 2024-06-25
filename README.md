@@ -61,4 +61,7 @@ For future enhancements, the project can be extended to include additional funct
 
 The system can also be integrated with web applications to provide a user-friendly interface for customers and administrators, facilitating seamless interactions and transactions.
 
+![image](https://github.com/Deekshith-DL/SQL-Project/assets/124920286/ed0ec549-6a0c-48c9-8847-3d0304c679a4)
+
+
 In conclusion, the SQL project for the Online Store Management System is a robust and valuable resource for managing an online retail business effectively. The system's well-organized database schema, realistic sample data, and insightful SQL queries make it a valuable tool for gaining valuable business insights and making informed decisions.
